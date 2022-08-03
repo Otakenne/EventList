@@ -20,6 +20,7 @@ import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.sp
 
@@ -42,7 +43,14 @@ fun EventList(viewModel: DataViewModel) {
                     ) {
                         Text(
                             initial,
-                            modifier = Modifier.padding(20.dp)
+                            style = TextStyle(
+                                fontWeight = FontWeight.Bold,
+                                fontSize = 20.sp
+                            ),
+                            modifier = Modifier.padding(
+                                horizontal = 20.dp,
+                                vertical = 10.dp
+                            )
                         )
                     }
                 }
