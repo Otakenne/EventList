@@ -1,0 +1,139 @@
+{
+  "id": 3,
+  "name": "Concerts",
+  "events": [],
+  "children": [
+    {
+      "id": 1207,
+      "name": "Rock and Pop",
+      "events": [],
+      "children": [
+        {
+          "id": 429,
+          "name": "Backstreet Boys",
+          "children": [],
+          "events": [
+            {
+              "id": 4422829,
+              "name": "Backstreet Boys",
+              "venueName": "Freedom Mortgage Pavilion",
+              "city": "Camden",
+              "price": 23,
+              "distanceFromVenue": 160356.975476542,
+              "date": "July 16 2020"
+            },
+            {
+              "id": 7643258,
+              "name": "Backstreet Boys",
+              "venueName": "Xfinity Theatre",
+              "city": "Hartford",
+              "price": 20,
+              "distanceFromVenue": 160356.975476542,
+              "date": "July 17 2022"
+            },
+            {
+              "id": 553229086,
+              "name": "Backstreet Boys",
+              "venueName": "Bethel Woods Center for the Arts",
+              "city": "Bethel",
+              "price": 69,
+              "distanceFromVenue": 160356.975476542,
+              "date": "July 24 2022"
+            }
+          ]
+        },
+        {
+          "id": 429,
+          "name": "Justin Bieber",
+          "children": [],
+          "events": [
+            {
+              "id": 23254657,
+              "name": "Justin Bieber",
+              "venueName": "Freedom Mortgage Pavillion",
+              "city": "Camden",
+              "price": 23,
+              "distanceFromVenue": 160356.975476542,
+              "date": "July 24 2022"
+            },
+            {
+              "id": 23254657,
+              "name": "Justin Bieber",
+              "venueName": "Xfinity Theatre",
+              "city": "Hartford",
+              "price": 20,
+              "distanceFromVenue": 160356.975476542,
+              "date": "July 24 2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "name": "Alte",
+      "events": [],
+      "children": [
+        {
+          "id": 890,
+          "name": "Santi",
+          "children": [],
+          "events": [
+            {
+              "id": 34356578,
+              "name": "Santi",
+              "venueName": "Yaba Youth Center",
+              "city": "Yaba",
+              "price": 20000,
+              "distanceFromVenue": 214345.978675369,
+              "date": "July 16 2020"
+            },
+            {
+              "id": 44325678,
+              "name": "Santi",
+              "venueName": "GTBank Arena",
+              "city": "Minna",
+              "price": 7500,
+              "distanceFromVenue": 434678.909756453,
+              "date": "July 17 2022"
+            },
+            {
+              "id": 67898965,
+              "name": "Santi",
+              "venueName": "Bonny Arts Center",
+              "city": "Port Harcourt",
+              "price": 10000,
+              "distanceFromVenue": 676554.989664226,
+              "date": "July 24 2022"
+            }
+          ]
+        },
+        {
+          "id": 667,
+          "name": "Omahlay",
+          "children": [],
+          "events": [
+            {
+              "id": 3432334,
+              "name": "Omahlay",
+              "venueName": "Freedom Mortgage Pavillion",
+              "city": "Yaba",
+              "price": 25000,
+              "distanceFromVenue": 223457.878656459,
+              "date": "July 24 2022"
+            },
+            {
+              "id": 23254657,
+              "name": "Omahlay",
+              "venueName": "Pleasure Park",
+              "city": "Port Harcourt",
+              "price": 20000,
+              "distanceFromVenue": 545433.786564343,
+              "date": "July 17 2022"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
